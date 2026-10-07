@@ -1,0 +1,14 @@
+stages:
+  - test
+
+test-c:
+  stage: test
+  image: gcc:14
+  script:
+    - scripts/run-tests.sh c
+
+test-python:
+  stage: test
+  image: python:3.13-slim
+  script:
+    - scripts/run-tests.sh python

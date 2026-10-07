@@ -1,0 +1,10 @@
+Filas: 10 3 13 16
+Columnas: 10 3 13 16
+Traza: 6
+Antidiagonal: -2
+Simetrica: SI
+Traspuesta:
+1 2 3 4
+2 0 -5 6
+3 -5 7 8
+4 6 8 -2

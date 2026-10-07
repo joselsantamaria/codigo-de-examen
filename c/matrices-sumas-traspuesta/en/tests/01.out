@@ -1,0 +1,9 @@
+Rows: 10 5 8
+Columns: 8 8 7
+Trace: 8
+Antidiagonal: 14
+Symmetric: NO
+Transpose:
+5 0 3
+-2 4 6
+7 1 -1
