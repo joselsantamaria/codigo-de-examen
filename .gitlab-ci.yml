@@ -1,14 +1,44 @@
+# scaffold-version: 2
+# One job per toolchain; a job runs only when the repository has exercises for it.
 stages:
   - test
 
 test-c:
   stage: test
   image: gcc:14
+  rules:
+    - exists:
+        - c/**/solution.c
+        - cpp/**/solution.cpp
+        - asm/**/solution.s
   script:
-    - scripts/run-tests.sh c
+    - bash scripts/run-tests.sh c cpp asm
 
 test-python:
   stage: test
   image: python:3.13-slim
+  rules:
+    - exists:
+        - python/**/solution.py
+        - sql/**/solution.sql
+        - bash/**/solution.sh
   script:
-    - scripts/run-tests.sh python
+    - bash scripts/run-tests.sh python sql bash
+
+test-java:
+  stage: test
+  image: eclipse-temurin:21-jdk
+  rules:
+    - exists:
+        - java/**/Main.java
+  script:
+    - bash scripts/run-tests.sh java
+
+test-javascript:
+  stage: test
+  image: node:22-slim
+  rules:
+    - exists:
+        - javascript/**/solution.js
+  script:
+    - bash scripts/run-tests.sh javascript
