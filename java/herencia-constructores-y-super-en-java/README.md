@@ -1,11 +1,13 @@
 <!-- exercises-repo-sync:generated — delete this line to edit this README by hand -->
-# Ejercicio resuelto: herencia, constructores y super en Java
+# Ejercicio resuelto: herencia, constructores y super en Java / Solved exercise: inheritance, constructors and super in Java
 
 **ES:** Ejercicio de examen resuelto en Java: jerarquía de empleados con clase abstracta, constructores encadenados con super y this, y sueldos con super.sueldo().
 
+**EN:** Solved Java exam exercise: an employee hierarchy with an abstract class, constructors chained with super and this, and salaries built on super.salary().
+
 | | ES | EN |
 |---|---|---|
-| Post | [java-ejercicio-sobre-herencia.html](https://www.larebelion.com/2021/02/java-ejercicio-sobre-herencia.html) | — |
+| Post | [java-ejercicio-sobre-herencia.html](https://www.larebelion.com/2021/02/java-ejercicio-sobre-herencia.html) | [solved-exercise-inheritance.html](https://www.larebelion.com/2026/10/solved-exercise-inheritance.html) |
 | Dificultad / Difficulty | Nivel examen | Exam level |
 | Tema / Topic | Programación orientada a objetos | Object-oriented programming |
 | Lenguaje / Language | Java | Java |
@@ -15,6 +17,7 @@ The full explanation, hints and traces are in the posts above. / La explicación
 ## Estructura / Layout
 
 - `Main.java` and `tests/` (`NN.in`, `NN.out`): Spanish edition / edición en español (5 cases).
+- `en/Main.java` and `en/tests/` (`NN.in`, `NN.out`): English edition / edición en inglés (5 cases).
 
 ## Ejecutar / Run
 
