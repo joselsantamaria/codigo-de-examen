@@ -26,6 +26,7 @@ Series index: <https://www.larebelion.com/p/exercises.html>
 | C | [`c/paso-por-valor-y-referencia`](c/paso-por-valor-y-referencia) | Punteros y paso de parámetros / Pointers and parameter passing | Nivel básico / Basic level | [ES](https://www.larebelion.com/2019/01/paso-por-referencia-y-paso-por-valor-en.html) · [EN](https://www.larebelion.com/2026/10/solved-exercise-pass-by-value-and-by.html) |
 | C | [`c/matrices-dinamicas`](c/matrices-dinamicas) | Memoria dinámica y estructuras de datos / Dynamic memory and data structures | Nivel examen / Exam level | [ES](https://www.larebelion.com/2020/04/matrices-dinamicas-en-c.html) · [EN](https://www.larebelion.com/2026/10/solved-exercise-dynamic-matrices-with.html) |
 | Python | [`python/matriz-traspuesta-diagonales`](python/matriz-traspuesta-diagonales) | Matrices y listas / Matrices and lists | Nivel examen / Exam level | [ES](https://www.larebelion.com/2026/10/ejercicio-resuelto-traspuesta.html) · [EN](https://www.larebelion.com/2026/10/solved-exercise-matrix-transpose.html) |
+| Java | [`java/herencia-constructores-y-super-en-java`](java/herencia-constructores-y-super-en-java) | Programación orientada a objetos / Object-oriented programming | Nivel examen / Exam level | [ES](https://www.larebelion.com/2021/02/java-ejercicio-sobre-herencia.html) |
 
 Cada ejercicio tiene una edición en español y otra en inglés (`en/`). / Each exercise has a Spanish and an English edition (`en/`).
 
