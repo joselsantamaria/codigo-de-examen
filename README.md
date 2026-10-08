@@ -1,6 +1,6 @@
 # Código de Examen / Exam Code
 
-[![pipeline status](https://gitlab.com/joselsantamaria/codigo-de-examen/badges/main/pipeline.svg)](https://gitlab.com/joselsantamaria/codigo-de-examen/-/pipelines)
+[![pipeline status](https://gitlab.com/larebelion/codigo-de-examen/badges/main/pipeline.svg)](https://gitlab.com/larebelion/codigo-de-examen/-/pipelines)
 
 ## Español
 
