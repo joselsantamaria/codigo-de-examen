@@ -1,0 +1,10 @@
+0: Circle(r=1.00) area=3.14
+1: Rectangle(b=2.00 h=3.00) area=6.00
+2: Square(s=1.50) area=2.25
+3: Triangle(b=4.00 h=2.50) area=5.00
+ERROR position 7
+0: Circle(r=1.00) area=3.14
+1: Square(s=1.50) area=2.25
+2: Triangle(b=4.00 h=2.50) area=5.00
+Total: 3 shapes, area 10.39
+Largest: Triangle(b=4.00 h=2.50) area=5.00

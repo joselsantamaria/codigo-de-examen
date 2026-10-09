@@ -27,6 +27,7 @@ Series index: <https://www.larebelion.com/p/exercises.html>
 | C | [`c/matrices-dinamicas`](c/matrices-dinamicas) | Memoria dinámica y estructuras de datos / Dynamic memory and data structures | Nivel examen / Exam level | [ES](https://www.larebelion.com/2020/04/matrices-dinamicas-en-c.html) · [EN](https://www.larebelion.com/2026/10/solved-exercise-dynamic-matrices-with.html) |
 | Python | [`python/matriz-traspuesta-diagonales`](python/matriz-traspuesta-diagonales) | Matrices y listas / Matrices and lists | Nivel examen / Exam level | [ES](https://www.larebelion.com/2026/10/ejercicio-resuelto-traspuesta.html) · [EN](https://www.larebelion.com/2026/10/solved-exercise-matrix-transpose.html) |
 | Java | [`java/herencia-constructores-y-super-en-java`](java/herencia-constructores-y-super-en-java) | Programación orientada a objetos / Object-oriented programming | Nivel examen / Exam level | [ES](https://www.larebelion.com/2021/02/java-ejercicio-sobre-herencia.html) · [EN](https://www.larebelion.com/2026/10/solved-exercise-inheritance.html) |
+| Java | [`java/polimorfismo-y-enlace-dinamico-en-java`](java/polimorfismo-y-enlace-dinamico-en-java) | Programación orientada a objetos / Object-oriented programming | Nivel examen / Exam level | [ES](https://www.larebelion.com/2021/02/java-ejercicio-sobre-polimorfismo.html) · [EN](https://www.larebelion.com/2026/10/solved-exercise-polymorphism-and.html) |
 
 Cada ejercicio tiene una edición en español y otra en inglés (`en/`). / Each exercise has a Spanish and an English edition (`en/`).
 
