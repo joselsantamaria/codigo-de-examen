@@ -1,0 +1,5 @@
+Circle area=3.14
+Rectangle area=6.00 sides=4
+Square area=4.00 sides=4
+Triangle area=6.00 sides=3
+total=19.14 withSides=3
