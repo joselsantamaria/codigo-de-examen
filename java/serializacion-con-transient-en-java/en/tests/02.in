@@ -1,0 +1,4 @@
+ADD cable 3 500
+SELL cable 5
+SELL fuse 1
+VALUE
