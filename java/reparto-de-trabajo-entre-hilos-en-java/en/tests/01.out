@@ -1,0 +1,4 @@
+Thread 0: [0, 4) sum=140 peaks=2
+Thread 1: [4, 7) sum=181 peaks=1
+Thread 2: [7, 10) sum=159 peaks=2
+Total: sum=480 peaks=5

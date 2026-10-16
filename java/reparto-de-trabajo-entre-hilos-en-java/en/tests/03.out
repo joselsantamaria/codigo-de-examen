@@ -1,0 +1,5 @@
+Thread 0: [0, 1) sum=7 peaks=1
+Thread 1: [1, 2) sum=5 peaks=0
+Thread 2: [2, 2) sum=0 peaks=0
+Thread 3: [2, 2) sum=0 peaks=0
+Total: sum=12 peaks=1
