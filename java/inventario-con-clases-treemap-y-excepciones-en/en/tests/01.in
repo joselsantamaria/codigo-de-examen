@@ -1,0 +1,9 @@
+3
+A-1 screws 10
+B-2 nuts 5
+C-3 buckets 0
+4
+RECEIVE A-1 5
+ISSUE B-2 7
+ISSUE C-3 0
+ISSUE B-2 5

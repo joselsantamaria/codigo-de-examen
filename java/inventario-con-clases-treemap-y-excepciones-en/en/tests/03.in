@@ -1,0 +1,11 @@
+2
+C-3 buckets 2
+D-4 funnels 0
+
+5
+ISSUE Z-9 1
+
+ISSUE D-4 1
+RECEIVE C-3 3
+ISSUE C-3 5
+ISSUE D-4 2
