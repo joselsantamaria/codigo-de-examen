@@ -1,0 +1,6 @@
+5
+mary TOPUP 0
+mary TOPUP -300
+mary PAY 100
+mary TOPUP 1000
+mary PAY 1001

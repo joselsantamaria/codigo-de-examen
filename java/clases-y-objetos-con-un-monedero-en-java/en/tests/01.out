@@ -1,0 +1,6 @@
+OK alice 20.00
+OK alice 12.50
+OK bob 5.00
+OK alice 0.00
+INSUFFICIENT bob 5.00
+OK alice 0.03

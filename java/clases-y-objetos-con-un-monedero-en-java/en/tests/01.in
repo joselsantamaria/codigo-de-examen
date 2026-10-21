@@ -1,0 +1,7 @@
+6
+alice TOPUP 2000
+alice PAY 750
+bob TOPUP 500
+alice PAY 1250
+bob PAY 600
+alice TOPUP 3
