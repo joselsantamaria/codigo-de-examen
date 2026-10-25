@@ -1,11 +1,13 @@
 <!-- exercises-repo-sync:generated — delete this line to edit this README by hand -->
-# Ejercicio resuelto: flota polimórfica con clonación en C++
+# Ejercicio resuelto: flota polimórfica con clonación en C++ / Solved exercise: polymorphic fleet with deep cloning in C++
 
 **ES:** Ejercicio resuelto en C++ de herencia y polimorfismo: flota de vehículos, clase abstracta, remolque decorador y copia profunda con clonar y unique_ptr.
 
+**EN:** Solved C++ exercise on inheritance and polymorphism: a vehicle fleet, an abstract base class, a trailer decorator and deep copy with clone and unique_ptr.
+
 | | ES | EN |
 |---|---|---|
-| Post | [ejercicio-resuelto-flota-polimorfica.html](https://www.larebelion.com/2026/10/ejercicio-resuelto-flota-polimorfica.html) | — |
+| Post | [ejercicio-resuelto-flota-polimorfica.html](https://www.larebelion.com/2026/10/ejercicio-resuelto-flota-polimorfica.html) | [solved-exercise-polymorphic-fleet-with.html](https://www.larebelion.com/2026/10/solved-exercise-polymorphic-fleet-with.html) |
 | Dificultad / Difficulty | Nivel nota | Top-grade level |
 | Tema / Topic | Programación orientada a objetos | Object-oriented programming |
 | Lenguaje / Language | C++ | C++ |
@@ -15,6 +17,7 @@ The full explanation, hints and traces are in the posts above. / La explicación
 ## Estructura / Layout
 
 - `solution.cpp` and `tests/` (`NN.in`, `NN.out`): Spanish edition / edición en español (6 cases).
+- `en/solution.cpp` and `en/tests/` (`NN.in`, `NN.out`): English edition / edición en inglés (6 cases).
 
 ## Ejecutar / Run
 
