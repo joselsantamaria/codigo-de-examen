@@ -1,0 +1,7 @@
+Thread 1: n=1 steps=0
+Thread 2: n=536870912 steps=29
+Thread 3: n=837799 steps=524
+Thread 4: n=77031 steps=350
+Thread 5: n=6171 steps=261
+Thread 6: n=1024 steps=10
+Maximum: thread 3 with 524 steps
