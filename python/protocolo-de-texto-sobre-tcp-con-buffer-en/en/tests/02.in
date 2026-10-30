@@ -1,0 +1,4 @@
+3
+set greeting   hello  world |get greeting|PING|GET|GET a b||   |
+Count extra|del greeting|COUNT|
+QUIT|

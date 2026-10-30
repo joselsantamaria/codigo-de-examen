@@ -1,0 +1,5 @@
+4
+SET color bl
+ue|GET col
+or|GET size|COUNT|DEL size|SET size
+ M|GET size|QUIT|GET color|

@@ -1,0 +1,10 @@
+OK
+VAL hello  world
+ERR 400 unknown command
+ERR 400 arguments
+ERR 400 arguments
+ERR 400 arguments
+OK
+VAL 0
+BYE
+SUMMARY processed=9 pending=0

@@ -1,0 +1,9 @@
+OK
+VAL blue
+ERR 404
+VAL 1
+ERR 404
+OK
+VAL M
+BYE
+SUMMARY processed=8 pending=10

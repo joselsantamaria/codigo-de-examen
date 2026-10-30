@@ -1,0 +1,3 @@
+2
+SET k1 v1|SET k2 v2|SET k1 new|GET k1|COU
+NT|DEL k2|GET k2|SET k3
