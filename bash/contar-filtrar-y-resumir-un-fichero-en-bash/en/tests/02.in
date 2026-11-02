@@ -1,0 +1,10 @@
+# lab log, week 12
+alice:L1:45
+bob:L2:30
+alice:L2:50
+carol:L1:20
+
+bob:L1:40
+alice-smith:L1:15
+dave:L3:abc
+carol:L1:25
