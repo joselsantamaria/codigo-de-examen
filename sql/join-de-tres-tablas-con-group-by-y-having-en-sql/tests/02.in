@@ -1,0 +1,6 @@
+CREATE TABLE barrio (id INTEGER PRIMARY KEY, nombre TEXT NOT NULL);
+CREATE TABLE hortelano (id INTEGER PRIMARY KEY, nombre TEXT NOT NULL, barrio_id INTEGER NOT NULL REFERENCES barrio(id));
+CREATE TABLE cosecha (id INTEGER PRIMARY KEY, hortelano_id INTEGER NOT NULL REFERENCES hortelano(id), cultivo TEXT NOT NULL, kg REAL NOT NULL, fecha TEXT NOT NULL);
+INSERT INTO barrio VALUES (1,'Sur'),(2,'Norte'),(3,'Este');
+INSERT INTO hortelano VALUES (1,'Irene',2),(2,'Jorge',2),(3,'Lucia',1),(4,'Mario',1),(5,'Nuria',3),(6,'Oscar',3);
+INSERT INTO cosecha VALUES (1,1,'acelga',10.0,'2024-03-01'),(2,2,'puerro',10.0,'2024-12-31'),(3,3,'tomate',15.5,'2024-01-01'),(4,4,'haba',4.5,'2024-10-10'),(5,5,'patata',19.5,'2024-02-02'),(6,6,'perejil',0.25,'2024-11-11'),(7,6,'calabaza',5.0,'2025-01-01');
