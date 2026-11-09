@@ -47,6 +47,7 @@ Series index: <https://www.larebelion.com/p/exercises.html>
 | Python | [`python/evaluar-expresiones-con-pila-y-recursion-en`](python/evaluar-expresiones-con-pila-y-recursion-en) | Estructuras de datos / Data structures | Nivel examen / Exam level | [ES](https://www.larebelion.com/2026/03/10-ejercicios-de-algoritmia-en-python.html) · [EN](https://www.larebelion.com/2026/11/solved-exercise-stack-and-recursive.html) |
 | Python | [`python/ticket-con-clases-herencia-y-metodos-especiales`](python/ticket-con-clases-herencia-y-metodos-especiales) | Programación orientada a objetos / Object-oriented programming | Nivel examen / Exam level | [ES](https://www.larebelion.com/2026/03/10-ejercicios-resueltos-de-python.html) · [EN](https://www.larebelion.com/2026/11/solved-exercise-shopping-receipt-with.html) |
 | SQL | [`sql/join-de-tres-tablas-con-group-by-y-having-en-sql`](sql/join-de-tres-tablas-con-group-by-y-having-en-sql) | Bases de datos / Databases | Nivel básico / Basic level | [ES](https://www.larebelion.com/2026/11/ejercicio-resuelto-join-de-tres-tablas.html) |
+| Python | [`python/diccionarios-conjuntos-y-tuplas-en-python`](python/diccionarios-conjuntos-y-tuplas-en-python) | Estructuras de datos / Data structures | Nivel básico / Basic level | [ES](https://www.larebelion.com/2026/03/10-ejercicios-de-python-resueltos.html) · [EN](https://www.larebelion.com/2026/11/solved-exercise-dictionaries-sets-and.html) |
 
 Cada ejercicio tiene una edición en español y otra en inglés (`en/`). / Each exercise has a Spanish and an English edition (`en/`).
 

@@ -1,0 +1,6 @@
+python: 2
+sql: 2
+networks: 2
+ALL: ana
+DUPLICATES: 2
+IGNORED: 1
