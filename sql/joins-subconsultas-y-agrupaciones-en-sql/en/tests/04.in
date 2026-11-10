@@ -1,0 +1,6 @@
+CREATE TABLE programmes (id INTEGER PRIMARY KEY, name TEXT NOT NULL UNIQUE);
+CREATE TABLE modules (id INTEGER PRIMARY KEY, name TEXT NOT NULL, programme_id INTEGER NOT NULL REFERENCES programmes(id));
+CREATE TABLE enrolments (student_id INTEGER NOT NULL, module_id INTEGER NOT NULL REFERENCES modules(id), mark REAL, PRIMARY KEY (student_id, module_id));
+INSERT INTO programmes VALUES (1,'History'),(2,'Law'),(3,'Philosophy');
+INSERT INTO modules VALUES (1,'Art',1),(2,'Civil Law',2),(3,'Criminal Law',2),(4,'Ethics',3);
+INSERT INTO enrolments VALUES (1,1,6),(2,1,7.5),(3,2,3),(4,2,NULL),(3,3,8),(5,4,NULL);

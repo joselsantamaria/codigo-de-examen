@@ -1,0 +1,6 @@
+CREATE TABLE programmes (id INTEGER PRIMARY KEY, name TEXT NOT NULL UNIQUE);
+CREATE TABLE modules (id INTEGER PRIMARY KEY, name TEXT NOT NULL, programme_id INTEGER NOT NULL REFERENCES programmes(id));
+CREATE TABLE enrolments (student_id INTEGER NOT NULL, module_id INTEGER NOT NULL REFERENCES modules(id), mark REAL, PRIMARY KEY (student_id, module_id));
+INSERT INTO programmes VALUES (1,'Chemistry');
+INSERT INTO modules VALUES (1,'Analytical',1),(2,'Organic',1),(3,'Inorganic',1);
+INSERT INTO enrolments VALUES (1,1,2),(1,2,6),(2,2,6),(3,2,6),(4,2,6),(5,2,6),(6,2,6),(2,3,5),(3,3,5);
