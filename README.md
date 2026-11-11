@@ -49,6 +49,7 @@ Series index: <https://www.larebelion.com/p/exercises.html>
 | SQL | [`sql/join-de-tres-tablas-con-group-by-y-having-en-sql`](sql/join-de-tres-tablas-con-group-by-y-having-en-sql) | Bases de datos / Databases | Nivel básico / Basic level | [ES](https://www.larebelion.com/2026/11/ejercicio-resuelto-join-de-tres-tablas.html) |
 | Python | [`python/diccionarios-conjuntos-y-tuplas-en-python`](python/diccionarios-conjuntos-y-tuplas-en-python) | Estructuras de datos / Data structures | Nivel básico / Basic level | [ES](https://www.larebelion.com/2026/03/10-ejercicios-de-python-resueltos.html) · [EN](https://www.larebelion.com/2026/11/solved-exercise-dictionaries-sets-and.html) |
 | SQL | [`sql/joins-subconsultas-y-agrupaciones-en-sql`](sql/joins-subconsultas-y-agrupaciones-en-sql) | Bases de datos / Databases | Nivel examen / Exam level | [ES](https://www.larebelion.com/2026/03/10-ejercicios-de-sql-resueltos-joins.html) · [EN](https://www.larebelion.com/2026/11/solved-exercise-joins-subqueries-and.html) |
+| C++ | [`cpp/lista-enlazada-con-clases-y-new-delete-en-c`](cpp/lista-enlazada-con-clases-y-new-delete-en-c) | Estructuras de datos / Data structures | Nivel examen / Exam level | [ES](https://www.larebelion.com/2026/03/10-ejercicios-de-c-para-aprobar.html) · [EN](https://www.larebelion.com/2026/11/solved-exercise-linked-list-with.html) |
 
 Cada ejercicio tiene una edición en español y otra en inglés (`en/`). / Each exercise has a Spanish and an English edition (`en/`).
 
