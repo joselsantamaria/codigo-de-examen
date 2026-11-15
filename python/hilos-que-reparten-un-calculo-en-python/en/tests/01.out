@@ -1,0 +1,4 @@
+thread 0: n=3 sum=37 min=-5 max=30
+thread 1: n=2 sum=8 min=0 max=8
+thread 2: n=2 sum=11 min=-14 max=25
+total: n=7 sum=56 min=-14 max=30

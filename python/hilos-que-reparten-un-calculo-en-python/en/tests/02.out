@@ -1,0 +1,6 @@
+thread 0: n=1 sum=4 min=4 max=4
+thread 1: n=1 sum=9 min=9 max=9
+thread 2: n=1 sum=-2 min=-2 max=-2
+thread 3: empty
+thread 4: empty
+total: n=3 sum=11 min=-2 max=9
