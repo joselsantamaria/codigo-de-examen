@@ -52,6 +52,7 @@ Series index: <https://www.larebelion.com/p/exercises.html>
 | C++ | [`cpp/lista-enlazada-con-clases-y-new-delete-en-c`](cpp/lista-enlazada-con-clases-y-new-delete-en-c) | Estructuras de datos / Data structures | Nivel examen / Exam level | [ES](https://www.larebelion.com/2026/03/10-ejercicios-de-c-para-aprobar.html) · [EN](https://www.larebelion.com/2026/11/solved-exercise-linked-list-with.html) |
 | Python | [`python/rachas-y-maximos-en-una-lista-con-python`](python/rachas-y-maximos-en-una-lista-con-python) | Fundamentos de programación / Programming fundamentals | Nivel básico / Basic level | [ES](https://www.larebelion.com/2026/03/10-ejercicios-resueltos-de-python-guia.html) · [EN](https://www.larebelion.com/2026/11/solved-exercise-streaks-and-maximum-in.html) |
 | Python | [`python/ordenacion-y-busqueda-binaria-con-coste-en`](python/ordenacion-y-busqueda-binaria-con-coste-en) | Algoritmia / Algorithms | Nivel examen / Exam level | [ES](https://www.larebelion.com/2026/03/50-ejercicios-de-python-resueltos-nivel.html) · [EN](https://www.larebelion.com/2026/11/solved-exercise-sorting-and-binary.html) |
+| Python | [`python/hilos-que-reparten-un-calculo-en-python`](python/hilos-que-reparten-un-calculo-en-python) | Sistemas operativos / Operating systems | Nivel examen / Exam level | [ES](https://www.larebelion.com/2026/11/ejercicio-resuelto-hilos-que-reparten.html) |
 
 Cada ejercicio tiene una edición en español y otra en inglés (`en/`). / Each exercise has a Spanish and an English edition (`en/`).
 

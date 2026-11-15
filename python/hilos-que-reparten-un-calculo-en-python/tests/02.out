@@ -1,0 +1,6 @@
+hilo 0: n=1 suma=4 min=4 max=4
+hilo 1: n=1 suma=9 min=9 max=9
+hilo 2: n=1 suma=-2 min=-2 max=-2
+hilo 3: vacio
+hilo 4: vacio
+total: n=3 suma=11 min=-2 max=9
