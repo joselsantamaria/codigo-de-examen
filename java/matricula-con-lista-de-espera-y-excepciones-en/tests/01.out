@@ -1,0 +1,12 @@
+OK asignatura PRG101
+OK asignatura MAT201
+MATRICULADO ana PRG101
+MATRICULADO bruno PRG101
+ESPERA carla PRG101 #1
+ESPERA dani PRG101 #2
+ERROR ana ya figura en PRG101
+ERROR asignatura desconocida FIS100
+BAJA ana PRG101
+ADMITIDO carla PRG101
+MAT201 0/1 matriculados=- espera=-
+PRG101 2/2 matriculados=bruno,carla espera=dani

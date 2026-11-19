@@ -1,0 +1,12 @@
+ERROR plazas incorrectas cero
+ERROR plazas incorrectas 0
+ERROR plazas incorrectas +3
+ERROR plazas incorrectas 99999999999
+OK asignatura AI300
+ERROR asignatura duplicada AI300
+ERROR orden mal formada
+ERROR orden mal formada
+ERROR ana no figura en AI300
+MATRICULADO ana AI300
+ERROR orden mal formada
+AI300 1/1 matriculados=ana espera=-
